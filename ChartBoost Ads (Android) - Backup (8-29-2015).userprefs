@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Touch_Input.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Bad_Bottom_Block.cs" Line="24" Column="42" />
+      <File FileName="Assets\Scripts\Bottom_Block.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ball_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ball_Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bottom_Block_Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Extra_Ball_Block_Bottom_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Extra_Ball_Block_Top_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game_Over_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game_Over_Menu_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Intro_Scene_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main_Menu_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main_Menu_Highscore_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main_Menu_Touch_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main_Scene_Background.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main_Scene_Touch_Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Options_Brick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play_Game_Brick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Save_Manager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Top_Block.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Top_Block_Spawner.cs" Line="47" Column="2" />
+      <File FileName="Assets\Scripts\Touch_Input.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
